@@ -1,1 +1,1 @@
-# OdysseySurfersClub-html-structure
+# osc-html-sctructure
